@@ -17,12 +17,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMahar)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-<summary>📝Blog Post</summary>
- <div>
-   [K8s](https://ujjwalmahar.hashnode.dev/kubernetes-architecture)
-  </div>
-</details>
+### 📝Blogs
+- [Kubernetes Architecture](https://ujjwalmahar.hashnode.dev/kubernetes-architecture) 
 
 ![Follow Me](https://img.shields.io/twitter/url?label=%40UjjwalMahar&style=social&url=https%3A%2F%2Ftwitter.com%2FUjjwalMahar)
 
