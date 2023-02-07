@@ -1,4 +1,4 @@
-# Hi there I am Ujjwal👋
+# Hi there I am Ujjwal👋 ![](https://komarev.com/ghpvc/?username=UjjwalMahar)
 
 <!-- ## About Me
 
