@@ -28,6 +28,7 @@
 
 ### 📝 Blogs
 - [Kubernetes Architecture](https://ujjwalmahar.hashnode.dev/kubernetes-architecture) 
+- [Firebase Realtime Database](https://ujjwalmahar.hashnode.dev/firebase-realtime-database)
 
 
 ### 🌐 Connect With Me:
