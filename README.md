@@ -15,13 +15,7 @@
  -->
 ### :fire: My Stats
 
-![Ujjwal Github stats](https://github-readme-stats.vercel.app/api?username=UjjwalMahar&show_icons=true&theme=radical)
-
-### 🧑🏻‍💻 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMahar)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Ujjwal Github stats](https://github-readme-stats.vercel.app/api?username=UjjwalMahar&show_icons=true&theme=radical) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=UjjwalMahar&theme=dark)](https://git.io/streak-stats)
 
 ### 🔎 Tech Stack
