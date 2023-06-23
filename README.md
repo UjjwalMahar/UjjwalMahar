@@ -13,10 +13,10 @@
 - ⚡ Fun fact: ...
 
  -->
-### :fire: My Stats
 
-![Ujjwal Github stats](https://github-readme-stats.vercel.app/api?username=UjjwalMahar&show_icons=true&theme=radical) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=UjjwalMahar&theme=dark)](https://git.io/streak-stats)
+### :fire: My Stats|
+![Ujjwal Github stats](https://github-readme-stats.vercel.app/api?username=UjjwalMahar&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=UjjwalMahar&theme=dark)](https://git.io/streak-stats) 
+--- | --- 
 
 ### 🔎 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=py,java,azure,aws,docker,jenkins,go,kubernetes,github,git,figma,firebase,flutter,androidstudio )
