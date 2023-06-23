@@ -5,7 +5,7 @@
 <!-- ## About Me
 
 - 🔭 I’m currently working on Android and Cloud
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Cloud 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,7 @@
 
  -->
 
-### :fire: My Stats|
+### :fire: My Stats
 ![Ujjwal Github stats](https://github-readme-stats.vercel.app/api?username=UjjwalMahar&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=UjjwalMahar&theme=dark)](https://git.io/streak-stats) 
 --- | --- 
 
