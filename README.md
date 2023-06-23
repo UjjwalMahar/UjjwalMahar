@@ -23,7 +23,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=UjjwalMahar&theme=dark)](https://git.io/streak-stats)
 
 ### 🔎 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=py,java,docker,androidstudio,go,kubernetes,github,git,figma,firebase,flutter )
+![My Skills](https://skillicons.dev/icons?i=py,java,azure,aws,docker,jenkins,go,kubernetes,github,git,figma,firebase,flutter,androidstudio )
 
 
 ### 📝 Blogs
