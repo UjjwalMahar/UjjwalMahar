@@ -34,3 +34,8 @@
  
  
 - 📫 How to reach me: ujjwal.mahar01@gmail.com
+
+<picture>
+<img src="https://raw.githubusercontent.com/hxu296/Ujjwalmahar/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
