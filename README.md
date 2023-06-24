@@ -19,7 +19,7 @@
 --- | --- 
 
 ### 🔎 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=py,java,azure,aws,docker,jenkins,go,kubernetes,github,git,figma,firebase,flutter,androidstudio )
+![My Skills](https://skillicons.dev/icons?i=py,java,azure,aws,gcp,docker,jenkins,go,kubernetes,github,git,figma,firebase,flutter,androidstudio )
 
 
 ### 📝 Blogs
