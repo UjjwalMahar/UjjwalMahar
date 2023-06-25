@@ -26,6 +26,7 @@
 - [Kubernetes Architecture](https://ujjwalmahar.hashnode.dev/kubernetes-architecture) 
 - [Firebase Realtime Database](https://ujjwalmahar.hashnode.dev/firebase-realtime-database)
 - [Automate AWS Infrastructure Using Terraform](https://ujjwalmahar.hashnode.dev/automate-aws-infrastructure-using-terraform)
+- [Simplifying Remote Management: Accessing Azure VM in Windows using SSH and PuTTY](https://ujjwalmahar.hashnode.dev/simplifying-remote-management-accessing-azure-vm-in-windows-using-ssh-and-putty)
 
 
 ### 🌐 Connect With Me:
