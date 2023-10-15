@@ -27,6 +27,7 @@
 - [Firebase Realtime Database](https://ujjwalmahar.hashnode.dev/firebase-realtime-database)
 - [Automate AWS Infrastructure Using Terraform](https://ujjwalmahar.hashnode.dev/automate-aws-infrastructure-using-terraform)
 - [Simplifying Remote Management: Accessing Azure VM in Windows using SSH and PuTTY](https://ujjwalmahar.hashnode.dev/simplifying-remote-management-accessing-azure-vm-in-windows-using-ssh-and-putty)
+- [How to create Base64-API using GoLang in 5 minutes?](https://medium.com/@UjjwalMahar/how-to-create-base64-api-using-golang-in-5-minutes-6b6fb918c29c)
 
 
 ### 🌐 Connect With Me:
